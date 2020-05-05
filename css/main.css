@@ -2,7 +2,7 @@ body {
     background-color: #f0f2f4;   
 }
 
-@media (min-width: 992px) {
+@media (min-width: 100px) {
 	body {
         padding-top: 100px;
 	}
