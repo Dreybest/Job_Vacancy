@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f2f4;   
+}
+
+@media (min-width: 992px) {
+	body {
+        padding-top: 100px;
+	}
+}
+
+.bg-dark {
+    background-color: #62606696!important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    width: 200px;    
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
